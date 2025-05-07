@@ -20,15 +20,16 @@ The following Jupyter notebooks are included in this repository:
 
 The use of intracranial recordings provided for spatiotemporal analysis of brain activity in unprecedented detail. The gifs illustrate how meaningful information gets extracted from the stimulus-evoked brain responses in time. Per trial, neural responses were recorded for 300 ms with stimulus onset at 100 ms. Prior to stimulus onset, the reconstruction is an average-looking image, after which it starts to take on an appearance that closely resembles the originally perceived stimulus.
 
-<p align="center">
-  <img src="https://github.com/tdado/brain2gan/blob/main/media/0093.gif" width="80" />
-  <img src="https://github.com/tdado/brain2gan/blob/main/media/0018.gif" width="80" />
-  <img src="https://github.com/tdado/brain2gan/blob/main/media/0038.gif" width="80" />
-  <img src="https://github.com/tdado/brain2gan/blob/main/media/0001.gif" width="80" />
-  
-  
-  <img src="https://github.com/tdado/brain2gan/blob/main/media/0094.gif" width="80" />
-  <img src="https://github.com/tdado/brain2gan/blob/main/media/0197.gif" width="80" />
-  <img src="https://github.com/tdado/brain2gan/blob/main/media/0081.gif" width="80" />
-  <img src="https://github.com/tdado/brain2gan/blob/main/media/0114.gif" width="80" />
-</p>
+<div style="display: flex; justify-content: center; flex-wrap: nowrap;">
+  <img src="https://github.com/tdado/brain2gan/blob/main/media/0093.gif?raw=true" style="flex: 1; max-width: 12.5%;" />
+  <img src="https://github.com/tdado/brain2gan/blob/main/media/0018.gif?raw=true" style="flex: 1; max-width: 12.5%;" />
+  <img src="https://github.com/tdado/brain2gan/blob/main/media/0038.gif?raw=true" style="flex: 1; max-width: 12.5%;" />
+  <img src="https://github.com/tdado/brain2gan/blob/main/media/0001.gif?raw=true" style="flex: 1; max-width: 12.5%;" />
+  <img src="https://github.com/tdado/brain2gan/blob/main/media/0094.gif?raw=true" style="flex: 1; max-width: 12.5%;" />
+  <img src="https://github.com/tdado/brain2gan/blob/main/media/0197.gif?raw=true" style="flex: 1; max-width: 12.5%;" />
+  <img src="https://github.com/tdado/brain2gan/blob/main/media/0081.gif?raw=true" style="flex: 1; max-width: 12.5%;" />
+  <img src="https://github.com/tdado/brain2gan/blob/main/media/0114.gif?raw=true" style="flex: 1; max-width: 12.5%;" />
+</div>
+
+
+
