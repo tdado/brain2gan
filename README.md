@@ -15,6 +15,11 @@ The following Jupyter notebooks are included in this repository:
 - `neural_decoding_faces.ipynb`: This notebook contains the code used to reconstruct perceived faces from brain activity.
 - `neural_decoding_images.ipynb`: This notebook contains the code used to reconstruct perceived natural images from brain activity.
 
+
+### Time-based neural decoding
+
+The use of intracranial recordings provided for spatiotemporal analysis of brain activity in unprecedented detail. The gifs illustrate how meaningful information gets extracted from the stimulus-evoked brain responses in time. Per trial, neural responses were recorded for 300 ms with stimulus onset at 100 ms. Prior to stimulus onset, the reconstruction is an average-looking image, after which it starts to take on an appearance that closely resembles the originally perceived stimulus.
+
 <p align="center">
   <img src="https://github.com/tdado/brain2gan/blob/main/media/0093.gif" width="100" />
   <img src="https://github.com/tdado/brain2gan/blob/main/media/0018.gif" width="100" />
@@ -27,8 +32,3 @@ The following Jupyter notebooks are included in this repository:
   <img src="https://github.com/tdado/brain2gan/blob/main/media/0081.gif" width="100" />
   <img src="https://github.com/tdado/brain2gan/blob/main/media/0114.gif" width="100" />
 </p>
-
-
-### Time-based neural decoding
-
-The use of intracranial recordings provided for spatiotemporal analysis of brain activity in unprecedented detail. The gifs illustrate how meaningful information gets extracted from the stimulus-evoked brain responses in time. Per trial, neural responses were recorded for 300 ms with stimulus onset at 100 ms. Prior to stimulus onset, the reconstruction is an average-looking image, after which it starts to take on an appearance that closely resembles the originally perceived stimulus.
